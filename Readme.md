@@ -1,1 +1,1 @@
-# Iniciando com o git e github. #
+# Iniciando com o Git e Github. #
