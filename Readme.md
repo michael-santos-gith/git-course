@@ -6,7 +6,7 @@ Em poucas palavras o Git é um sistema de controle de versão de código aberto 
 
 Para poder usar o Git é necessário sua instalação, existem várias maneiras, abaixo irei listar algumas delas.
 
-Instalação no Linux
+## Instalação no Linux
 
 Geralemente as istribuições Linux já vem com o Git, basta conferir digitando no terminal `git --version`.
 
