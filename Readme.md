@@ -31,4 +31,4 @@ Caso aparece um erro ou alguma outra menssagem o git não deve está instalado, 
 
 ### Instalando no Windows
 
-A instalação no Windows é bem simples basta ir ao (http://git-scm.com/download/win" target="_blank) e escolher sua versão que pode ser 32 ou 64bits, o download começará automaticamente. 
+A instalação no Windows é bem simples basta ir ao (http://git-scm.com/download/win/){target="_blank"} e escolher sua versão que pode ser 32 ou 64bits, o download começará automaticamente. 
