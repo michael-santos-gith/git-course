@@ -16,15 +16,15 @@ Caso aparece um erro ou alguma outra menssagem o git não deve está instalado, 
 
 ### Instalação em outras distros
 
-**Fedora**
+**Fedora**  
 `sudo yum install git` / 
 `sudo dnf install git`
 
-**Gentoo**
+**Gentoo**  
 `sudo emerge --ask --verbose dev-vcs/git`
 
-**Arch Linux**
+**Arch Linux**  
 `sudo pacman -S git`
 
-**OpenSUSE**
+**OpenSUSE**  
 `sudo zypper install git`
