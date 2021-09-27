@@ -17,7 +17,7 @@ Caso aparece um erro ou alguma outra menssagem o git não deve está instalado, 
 ### Instalação em outras distros
 
 **Fedora**  
-`sudo yum install git` / 
+`sudo yum install git` ou 
 `sudo dnf install git`
 
 **Gentoo**  
