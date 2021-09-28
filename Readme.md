@@ -32,3 +32,9 @@ Caso aparece um erro ou alguma outra menssagem o git não deve está instalado, 
 ### Instalando no Windows
 
 A instalação no Windows é bem simples basta ir ao (http://git-scm.com/download/win/) e escolher sua versão que pode ser 32 ou 64bits, o download começará automaticamente. 
+
+### Instalação no Mac
+
+Há varias opções para instalar o Git no Mac, nesse exemplo vou usar o Homebrew. Instale o Homebrew se você ainda não o tiver, depois:
+
+`$ brew install git`
