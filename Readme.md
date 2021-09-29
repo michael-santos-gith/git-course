@@ -39,9 +39,9 @@ Há varias opções para instalar o Git no Mac, nesse exemplo vou usar o Homebre
 
 `$ brew install git`
 
-## COnfigurações básicas
+## Configurações básicas
 
 Depois da instalação do Git algumas configurações devem ser feitas, como a identificação do usuário. Como será mostrado abaixo:
 
-`git config --global user.name "seu_nome"`
+`git config --global user.name "seu_nome"`  
 `git config --global user.email "seu_email"`
