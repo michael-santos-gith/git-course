@@ -38,3 +38,10 @@ A instalação no Windows é bem simples basta ir ao (http://git-scm.com/downloa
 Há varias opções para instalar o Git no Mac, nesse exemplo vou usar o Homebrew. Instale o Homebrew se você ainda não o tiver, depois:
 
 `$ brew install git`
+
+## COnfigurações básicas
+
+Depois da instalação do Git algumas configurações devem ser feitas, como a identificação do usuário. Como será mostrado abaixo:
+
+`git config --global user.name "seu_nome"`
+`git config --global user.email "seu_email"`
