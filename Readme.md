@@ -50,3 +50,7 @@ Exemplo:
 
 `git config --global user.name "Michael Santos"`  
 `git config --global user.email "maiconxandroid@gmail.com`
+
+Há várias outras configurações que você pode fazer como, do editor, do diff e cor há também a possibilidade de verificar todas as configurações do git com o comando:
+
+`git config --list`
