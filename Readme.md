@@ -45,3 +45,8 @@ Depois da instalação do Git algumas configurações devem ser feitas, como a i
 
 `git config --global user.name "seu_nome"`  
 `git config --global user.email "seu_email"`
+
+Exemplo:
+
+`git config --global user.name "Michael Santos"`  
+`git config --global user.email "maiconxandroid@gmail.com`
