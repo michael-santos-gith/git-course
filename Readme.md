@@ -59,6 +59,6 @@ Há várias outras configurações que você pode fazer como, do editor, do diff
 
 A seguir alguns commando iniciais do Git:
 
-1.*Clone*:criauma copia do repositório na sua máquina.`git clone`
-2.*Pull*:faz uma sincronização do seu repositório local com o online.`git pull`
-3.*Push*:após as alterações no seu repositório local faz o envio dessas alterações para o repositório online.`git add` seguido de `git commit -m "comentário"` e `git push`
+1.*Clone*:criauma copia do repositório na sua máquina.`git clone`  
+2.*Pull*:faz uma sincronização do seu repositório local com o online.`git pull`  
+3.*Push*:após as alterações no seu repositório local faz o envio dessas alterações para o repositório online.`git add` seguido de `git commit -m "comentário"` e `git push`  
