@@ -73,5 +73,5 @@ Vamos iniciar um repositório local com o git, vá na pasta do projeto e digite 
 *#Adiciona todos arquivos existentes*  
 `git add`
 
-*#Cria o primeiro commit no histórico de versões*
+*#Cria o primeiro commit no histórico de versões*  
 `git commit -m "Inicial commit"`
