@@ -78,4 +78,4 @@ Vamos iniciar um repositório local com o git, vá na pasta do projeto e digite 
 
 ## Clonando projeto
 
-Para iniciar um projeto no GitHUb ou colaborar com um, assim sendo esse projeto local também, é necessário a clonagem do projeto no seu computador. Usa-se o comando **$ git clone <url-do-projeto>**.
+Para iniciar um projeto no GitHUb ou colaborar com um, assim sendo esse projeto local também, é necessário a clonagem do projeto no seu computador. Usa-se o comando **$ git clone url-do-projeto**.
