@@ -92,3 +92,8 @@ com o `$ git add .` ou `$ git add <caminho_do_arquivo>`. Na primeiro opção o p
 ### Removendo arquivos
 
 Diferente do ***git add*** não podemos remover vários arquivos, todos deveram ser removidos um por um com o comando `$ git rm <caminho_do_arquivo>`.
+
+### Desfazendo modificações nos arquivos
+
+Para modificarmos as alterações feitas, é usado o comando: 
+`$ git checkout -- <caminho_do_arquivo>`.
