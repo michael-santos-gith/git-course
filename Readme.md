@@ -79,3 +79,7 @@ Vamos iniciar um repositório local com o git, vá na pasta do projeto e digite 
 ## Clonando projeto
 
 Para iniciar um projeto no GitHUb ou colaborar com um, assim sendo esse projeto local também, é necessário a clonagem do projeto no seu computador. Usa-se o comando **$ git clone url-do-projeto**.
+
+## Verificando status do repositório
+
+Para verificar o status do repositório é só rodar o comando **$ git status**, se ouve alguma criação, modificação ou remoção de arquivo o _git status_ irá notificar na tela.
