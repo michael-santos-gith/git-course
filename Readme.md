@@ -82,7 +82,7 @@ Para iniciar um projeto no GitHUb ou colaborar com um, assim sendo esse projeto 
 
 ### Verificando status do repositório
 
-Para verificar o status do repositório é só rodar o comando **$ git status**, se ouve alguma criação, modificação ou remoção de arquivo o _git status_ irá notificar na tela.
+Para verificar o status do repositório é só rodar o comando `$ git status`, se ouve alguma criação, modificação ou remoção de arquivo o __git status__ irá notificar na tela.
 
 ### Adicionando e/ou modificando arquivos
 
