@@ -97,3 +97,9 @@ Diferente do ***git add*** não podemos remover vários arquivos, todos deveram 
 
 Para modificarmos as alterações feitas, é usado o comando: 
 `$ git checkout -- <caminho_do_arquivo>`.
+
+### Commits
+
+Quando concluirmos a criação, alteração ou remoção de arquivos, ou diretórios, precisamos armazenar as mudanças e para isso usamos os __commits__, podemos commitar abrindo um arquivo digitando:
+
+`$ git commit`
