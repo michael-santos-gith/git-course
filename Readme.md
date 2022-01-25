@@ -103,3 +103,9 @@ Para modificarmos as alterações feitas, é usado o comando:
 Quando concluirmos a criação, alteração ou remoção de arquivos, ou diretórios, precisamos armazenar as mudanças e para isso usamos os __commits__, podemos commitar abrindo um arquivo digitando:
 
 `$ git commit`
+
+Para commits que possuam mais pessoas no mesmo projeto pode-se usar o:
+
+`$ git commit -s`
+
+O **"-s"** abre o editor de texto com o **"Signed-off: nome_do_usuario <email_do_usuario>"**, com isso fica fácil identificar quem fez o commit.
