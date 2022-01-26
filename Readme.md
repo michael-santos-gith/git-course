@@ -109,3 +109,19 @@ Para commits que possuam mais pessoas no mesmo projeto pode-se usar o:
 `$ git commit -s`
 
 O **"-s"** abre o editor de texto com o **"Signed-off: nome_do_usuario <email_do_usuario>"**, com isso fica fácil identificar quem fez o commit.
+
+Existe uma forma de commitar já escrevendo a mensagem, sem a necessidade de abrir o editor:
+
+` git commit -m "Mensagem a ser commitada."`
+
+Pode-se também commitar com outro autor, em outras palavras um usuário diferente do que está configurado no computador, para isso é só usar o:
+
+`$ git commit --author="Nome do Usuário <email_do_usuario>"`
+
+E no último momento caso tenha commitado algo errado, como, por exemplo, uma mensagem errada ou incompleta a solução é fácil basta digitar:
+
+`$ git commit --amend`
+
+A opção **-m** também pode ser usada, sem precisar abrir o editor texto:
+
+`$ git commit --amend -m "Mensagem a ser commitada."`
