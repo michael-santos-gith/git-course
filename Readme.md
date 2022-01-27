@@ -125,3 +125,9 @@ E no último momento caso tenha commitado algo errado, como, por exemplo, uma me
 A opção **-m** também pode ser usada, sem precisar abrir o editor texto:
 
 `$ git commit --amend -m "Mensagem a ser commitada."`
+
+### Histórico de commits
+
+Para verificar todos os commits já feitos use o comando:
+
+`$ git log`
