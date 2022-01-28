@@ -131,3 +131,9 @@ A opção **-m** também pode ser usada, sem precisar abrir o editor texto:
 Para verificar todos os commits já feitos use o comando:
 
 `$ git log`
+
+## Inicio básico com o GItHub
+
+Para criar m repositório no GitHub é necessario que os arquivos locais sejam adicionaos a ele, e para tal finalidade usamo o comando:
+
+`$ git remote add origin https://github.com/<nome_do_usuario>/<nome_do_repositorio>.git`
