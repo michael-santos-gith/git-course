@@ -141,3 +141,7 @@ Para criar um repositório no GitHub é necessario que os arquivos locais sejam 
 ### Branches
 
 Podemos criar diferentes **banches** (*ramos*) em nosso projeto, com isso várias pessoas podem colaborar com o projeto e tendo o mínimo de conflito. Todo projeto já possui uma branch chamada (*master/main*) e para criar uma branch nova, digite `$ git checkout -b <nome_da_branch>`, para checar as branches criadas digite `$ git branch`, e para trocar de branch digite `$ git checkout <nome_da_branch>`. Se for realizado um *rebase* ou *merge* a branch não tem mais valor podendo ser excluída com o comando `$ git branch -d <nome_da_branch>`.
+
+### Push
+
+Depois de todas as alterações serem feitas você pode adicionar essas mudanças no repositório remoto com o comando `$git push origin $nome_da_branch`.
