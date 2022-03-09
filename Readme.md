@@ -155,7 +155,7 @@ Como mencionado anteriormente pode-se ter vários colaboradores em um único pro
 Para comparar os commits utilize o comando `$git diff`.
 
 #### Referências
---
+___________________________________________________________________________________________________________________________________
 
 1. [Git Básico](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico), Wikiversidade.
 2. [Git Wikepedia](https://en.wikipedia.org/wiki/Git), Wikipedia.
