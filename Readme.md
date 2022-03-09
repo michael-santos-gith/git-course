@@ -145,3 +145,7 @@ Podemos criar diferentes **banches** (*ramos*) em nosso projeto, com isso vária
 ### Push
 
 Depois de todas as alterações serem feitas você pode adicionar essas mudanças no repositório remoto com o comando `$git push origin $nome_da_branch`.
+
+### Pull
+
+Como mencionado anteriormente pode-se ter vários colaboradores em um único projeto e cada um com sua **branch**, com isso terá várias atualizações e para ter as mesmas em seu repositório local use o comando **pull**. Para se atualizar todo o projeto usa-se o comando `$git pull`, se preferir pode uma branch especifica utilize o `$git pull <nome_da_branch>`.
