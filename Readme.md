@@ -149,3 +149,14 @@ Depois de todas as alterações serem feitas você pode adicionar essas mudança
 ### Pull
 
 Como mencionado anteriormente pode-se ter vários colaboradores em um único projeto e cada um com sua **branch**, com isso terá várias atualizações e para ter as mesmas em seu repositório local use o comando **pull**. Para se atualizar todo o projeto usa-se o comando `$git pull`, se preferir pode uma branch especifica utilize o `$git pull <nome_da_branch>`.
+
+### Diferenças entre Commits
+
+Para comparar os commits utilize o comando `$git diff`.
+
+#### Referências
+--
+
+1. [Git Básico](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico), Wikiversidade.
+2. [Git Wikepedia](https://en.wikipedia.org/wiki/Git), Wikipedia.
+3. [GitHub Wikipedia](https://en.wikipedia.org/wiki/GitHub), Wikipedia.
