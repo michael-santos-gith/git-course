@@ -134,6 +134,10 @@ Para verificar todos os commits já feitos use o comando:
 
 ## Inicio básico com o GItHub
 
-Para criar m repositório no GitHub é necessario que os arquivos locais sejam adicionaos a ele, e para tal finalidade usamo o comando:
+Para criar um repositório no GitHub é necessario que os arquivos locais sejam adicionaos a ele, e para tal finalidade usamo o comando:
 
 `$ git remote add origin https://github.com/<nome_do_usuario>/<nome_do_repositorio>.git`
+
+### Branches
+
+Podemos criar diferentes **banches** (*ramos*) em nosso projeto, com isso várias pessoas podem colaborar com o projeto e tendo o mínimo de conflito. Todo projeto já possui uma branch chamada (*master/main*) e para criar uma branch nova, digite `$ git checkout -b <nome_da_branch>`, para checar as branches criadas digite `$ git branch`, e para trocar de branch digite `$ git checkout <nome_da_branch>`. Se for realizado um *rebase* ou *merge* a branch não tem mais valor podendo ser excluída com o comando `$ git branch -d <nome_da_branch>`.
